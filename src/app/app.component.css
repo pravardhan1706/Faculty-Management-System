@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Merriweather Sans', sans-serif;
+   }
+   .navbar-brand{
+    margin-left: 45px;
+   }
+   .navbar{
+    background-color: black;
+   }
+   .navbar-nav{
+    font-size: 23px;
+    margin-right: 50px;
+    font-family: 'Didact Gothic', sans-serif;
+   }
+   .active{
+    font-weight: bold;
+    background-color: rgb(46, 187, 41);
+    border-radius: 15px;
+    padding-top: 5px;
+   }
+   
